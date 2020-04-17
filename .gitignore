@@ -1,0 +1,27 @@
+# Intellij
+.idea/
+target/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+/target
+/bin/
